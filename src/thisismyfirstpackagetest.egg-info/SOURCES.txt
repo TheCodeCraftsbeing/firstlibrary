@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/firstpackage/__init__.py
+src/firstpackage/thisismyfirstpackagetest.py
+src/thisismyfirstpackagetest.egg-info/PKG-INFO
+src/thisismyfirstpackagetest.egg-info/SOURCES.txt
+src/thisismyfirstpackagetest.egg-info/dependency_links.txt
+src/thisismyfirstpackagetest.egg-info/top_level.txt

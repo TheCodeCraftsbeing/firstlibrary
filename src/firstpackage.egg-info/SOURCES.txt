@@ -1,0 +1,9 @@
+LICENSE.md
+README.md
+pyproject.toml
+src/firstpackage/__init__.py
+src/firstpackage/firstpackage.py
+src/firstpackage.egg-info/PKG-INFO
+src/firstpackage.egg-info/SOURCES.txt
+src/firstpackage.egg-info/dependency_links.txt
+src/firstpackage.egg-info/top_level.txt
